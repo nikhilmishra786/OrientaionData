@@ -1,0 +1,3 @@
+include ':orientationsdk'
+include ':app'
+rootProject.name = "OrientaionData"
